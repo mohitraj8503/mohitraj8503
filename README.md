@@ -11,11 +11,15 @@ Letting results speak.
 ---
 
 ## 🌐 Connect with Me
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pmenthuse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitraj8503)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/mohitraj8503)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@mohit.raj.8503)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohitraj8503@gmail.com)
+
+</div>
 
 ---
 
@@ -56,22 +60,40 @@ Letting results speak.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohitraj8503&theme=dark&show_icons=true&hide_border=false)
-![](https://streak-stats.demolab.com?user=mohitraj8503&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitraj8503&theme=dark&layout=compact&hide_border=false)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohitraj8503&theme=dark&show_icons=true&hide_border=true" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=mohitraj8503&theme=dark&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitraj8503&theme=dark&layout=compact&hide_border=true" height="160"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohitraj8503&theme=dark&no-frame=false&no-bg=true&margin-w=6)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohitraj8503&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
 
 ---
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mohitraj8503&icon=0&color=cyan)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Clean, focused, and built for the long run -->
+<img src="https://visitcount.itsvg.in/api?id=mohitraj8503&icon=0&color=cyan"/>
+
+</div>
+
+<!-- Clean • Focused • Built for the long run -->
