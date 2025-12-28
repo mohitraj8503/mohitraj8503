@@ -1,38 +1,46 @@
 <div align="center">
 
 # Hi, I'm Mohit 🌙  
-**Tech Tomorrow · AI & Data Science (IBM) · Arka Jain University**
+### Tech Tomorrow · AI & Data Science (IBM) · Arka Jain University  
 
-Building skills in silence.  
-Letting results speak.
+**Building skills in silence.**  
+*Letting results speak.*
 
 </div>
 
 ---
 
 ## 🌐 Connect with Me
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pmenthuse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitraj8503)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/mohitraj8503)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@mohit.raj.8503)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohitraj8503@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://instagram.com/pmenthuse">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mohitraj8503">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/mohitraj8503">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@mohit.raj.8503">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:mohitraj8503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+### 🧠 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Web & Platforms
+### 🌐 Web & Platforms
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -42,14 +50,14 @@ Letting results speak.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-### AI & Data Science
+### 🤖 AI & Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-### Tools
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
@@ -60,40 +68,29 @@ Letting results speak.
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohitraj8503&theme=dark&show_icons=true&hide_border=true" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=mohitraj8503&theme=dark&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitraj8503&theme=dark&layout=compact&hide_border=true" height="160"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitraj8503&theme=dark&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=mohitraj8503&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitraj8503&theme=dark&layout=compact&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohitraj8503&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitraj8503&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-### ✍️ Dev Quote
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</div>
+## ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mohitraj8503&icon=0&color=0"/>
+</p>
 
-<img src="https://visitcount.itsvg.in/api?id=mohitraj8503&icon=0&color=cyan"/>
-
-</div>
-
-<!-- Clean • Focused • Built for the long run -->
