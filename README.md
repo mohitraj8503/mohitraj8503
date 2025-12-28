@@ -68,10 +68,13 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitraj8503&theme=dark&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=mohitraj8503&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitraj8503&theme=dark&layout=compact&hide_border=true" height="160"/>
+  <img
+    src="https://streak-stats.demolab.com?user=mohitraj8503&theme=dark&hide_border=true"
+    height="180"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
