@@ -80,10 +80,11 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=mohitraj8503&theme=onedark&no-frame=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=mohitraj8503&theme=onedark&row=1&no-frame=true&margin-w=15"
     alt="GitHub Trophies"
   />
 </p>
+
 
 
 ---
