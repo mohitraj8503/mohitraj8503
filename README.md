@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**mohitraj8503/mohitraj8503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 ## 👨‍💻 About Me<br><br>Hi, I'm **Mohit Raj** 👋  <br>🚀 Full Stack Developer | AI & Data Science Student | Founder of TechTomorrow<br><br>💻 I'm currently building scalable web applications, AI-powered platforms, and developer-focused products.<br><br>🌱 Currently learning **Advanced AI, System Design, Cloud Technologies, and DevOps**<br><br>🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science (IBM)** at **Arka Jain University**<br><br>🏆 Microsoft Learn Student Ambassador passionate about empowering students through workshops and technical communities.<br><br>💡 Founder of **TechTomorrow**, where I build innovative learning experiences, certification programs, and AI-driven solutions.<br><br>🤝 Open to collaborating on<br>- Open Source Projects<br>- AI & Machine Learning<br>- Full Stack Development<br>- Hackathons<br>- Developer Communities<br><br>💬 Ask me about<br>- Next.js<br>- React<br>- Node.js<br>- TypeScript<br>- Python<br>- AI & Machine Learning<br>- Git & GitHub<br>- UI/UX Design<br>- Firebase & Supabase<br><br>⚡ Fun Fact:<br>I love turning ambitious ideas into real products, and I'm always building something new.
 
 
@@ -23,11 +16,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=mohitraj8503&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
