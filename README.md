@@ -4,7 +4,7 @@
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&duration=2000&pause=800&color=F7DF1E&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Mohit+Raj!;Full+Stack+Developer;Founder+of+TechTomorrow;AI+%26+Data+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&duration=2000&pause=800&color=F7DF1E&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Mohit+Raj!;Full+Stack+Developer;Sole+Developer+of+TechTomorrow;AI+%26+Data+Science+Student" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/mohitraj8503" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -29,7 +29,7 @@
 
 <ul style="font-size: 1.1rem; line-height: 1.8;">
   <li>🎓 <b>Academic Path:</b> Pursuing B.Tech in AI & Data Science at <b>Arka Jain University</b> (in collaboration with <b>IBM</b>).</li>
-  <li>🚀 <b>Entrepreneurship:</b> Founder of <b>TechTomorrow</b> — an innovative educational and tech platform.</li>
+  <li>🚀 <b>Entrepreneurship:</b> Sole Developer of <b>TechTomorrow</b> — an innovative educational and tech platform.</li>
   <li>🏆 <b>Community Leadership:</b> Microsoft Learn Student Ambassador (MLSA), actively organizing workshops and building local developer circles.</li>
   <li>🛠️ <b>Current Focus:</b> Deep-diving into Advanced System Design, Cloud Deployments, and generative AI.</li>
 </ul>
