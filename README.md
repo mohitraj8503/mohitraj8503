@@ -47,6 +47,21 @@
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Core Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **[kerala-migrant-health-system](https://github.com/mohitraj8503/kerala-migrant-health-system)** | 🏥 ABHA-aligned digital health platform for 3.5M+ migrant workers. **SIH Winner**. | React, Node.js, PostgreSQL | [Live Web App](https://kerala-migrant-health-system.vercel.app) |
+| **[Nyaya-Setu](https://github.com/mohitraj8503/Nyaya-Setu)** | ⚖️ India’s Citizen Action & Public Governance Guide for public schemes & legal aid. | HTML, CSS, JavaScript | [Live Portal](https://mohitraj8503.github.io/Nyaya-Setu/) |
+| **[Markly](https://github.com/mohitraj8503/Markly)** | 📝 AI-assisted subjective exam paper digitization & automated grading engine. | Next.js, TypeScript, Gemini AI | — |
+| **[Smart-Air-Shield](https://github.com/mohitraj8503/Smart-Air-Shield)** | 🛡️ Helmet-integrated dual PM2.5/PM10 air purifier for two-wheelers. Vishwakarma Awards. | ESP32, C++, Next.js | — |
+| **[Vyapaari-Plus](https://github.com/mohitraj8503/Vyapaari-Plus)** | 💼 AI-first Business Operating System (BOS) for Indian retailers & MSMEs. | Next.js, Prisma, PostgreSQL | — |
+| **[mohitraj.me](https://github.com/mohitraj8503/mohitraj.me)** | ✨ High-performance modern web developer portfolio & personal brand hub. | HTML5, CSS3, Modern JS | [Visit Portfolio](https://mohitraj8503.github.io/mohitraj.me) |
+
+---
+
 ## 🛠️ My Tech Stack
 
 <details open>
