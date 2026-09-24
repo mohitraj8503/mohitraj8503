@@ -4,34 +4,45 @@
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&duration=2000&pause=800&color=F7DF1E&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Mohit+Raj!;Full+Stack+Developer;Sole+Developer+of+TechTomorrow;AI+%26+Data+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&duration=2000&pause=800&color=F7DF1E&center=true&vCenter=true&width=750&height=50&lines=Mohit+Raj;Technical+Team+Lead+%26+Full-Stack+Developer;Tech+Tomorrow;Lead%2C+MLSC+%40+Arka+Jain+University" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/mohitraj8503" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/mohitraj8503/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
-    <a href="https://instagram.com/mohitraj8503" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://techtomorrow.in" target="_blank"><img src="https://img.shields.io/badge/TechTomorrow-%232ea44f.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="TechTomorrow"/></a>
+    &nbsp;
+    <a href="https://mohitraj8503.github.io/mohitraj.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%236C63FF.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
     &nbsp;
     <a href="mailto:mohitraj8503@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    &nbsp;
-    <a href="https://techtomorrow.in" target="_blank"><img src="https://img.shields.io/badge/TechTomorrow-%232ea44f.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAJ/UExURf39/f79/f79/vz9/ffz8Pvs4P77/P79/93x8LTh373OtNC0b+Tqt/H30fv88fz8+v38/Pn8+77k45/Sv5bIh6HJdrvTiM3dltHhitPkfu3z0Pv7+bveoOXx2rnj4qPSspnHc6bSp9nq4v37/fr7/ejz79nm08vezfT49+bv326zQL7aqv/9/tTu7qPVvbLTd5DTtTDQvKXd1fn5+HbNrFfClMvd26/M0NHkstvruom9bOPr3/r8/Kzf27jZhbbLnl68uACzoHnIwbfW0iGbeyeieKTPv8ba2Ojwz6DOYKPKj/78/ur296zex8rgfHKUlwNlbQGPhheRiC6FfAZyXiqPSl2pQczfvuz044nCYd3p2f/+//Hl29HSl9Tmk8rT2FePlSqEhX6rqqK5t2KcQKfLMM/Ynefs1KrTd3u2fevk2P78+/ji1dnOjdXomvj5/ImusVKMkLTFyPD155DFJqnQQfL06sLehJ3Ic3SoodW2kfz38/j69+DsysriiPX29YSkqFCAh7TEx+vz5GyzJpXIP8ngcJrAX6nGxHywmdvksf38/dPmxeXv3MbfjOzz05Orsy1hbkJxf6O2spfGUqfOK4qzV7fMx4SutqDDgezyyv/9/6TPjuHu2enx2MfgjMvXyUlycUBtSKC9S6/RSmmdXnCff568wnimjM/hk/r69r7bsYvCbLnbmK/Ub7LWXKvNTp3GSYy+dZG8sKW/wXCbmm+dib/Xh/H04vv7+tPjyaPHiZG6dYy1fIWtkFOFhlmOmHOeomuZmImxh8fblvD04f7+/vv6/fHy9u7x9fHy9drh48jS0sCkhc7Qsufwzfn59f/+/vny7vz5+P///9KoA4IAAAABYktHRNQJuwuFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6gcTCDsbM0PBSQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNi0wNy0xOVQwODo1OToxMiswMDowMOL6N/YAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjYtMDctMTlUMDg6NTk6MTIrMDA6MDCTp49KAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDI2LTA3LTE5VDA4OjU5OjI3KzAwOjAwGAWG0QAAARBJREFUGNNjYGBgYGRiZmFlY2cEMcEEAwcnFzcPLx8TAyO/AJAvKCQsIiomLiEpxS4tI8vAyCwnr6CopKyiqqauoamlzaCjq6dvYGhkbGJqZm5haWXNYGNrZ+/g6OTs4urm7uHp5c3g4+vnHxAYFBwSGhYeERkVzRATGxefkJiUnJKalp6RmZXNkJObl19QWFRcUlpWXlFZVc1QU1tX39DY1NzS2tbe0dnVzdDT29c/YeKkyVOmTps+Y+as2Qxz5s6bv2DhosVLli5bvmLlKkaG1WvWrlu/YeOmzVu2btu+g4mBYeeu3Xv27tt/4OChw0eOMoG8duz4iZOnTp85e+78BRAf7GVGxouMyuuD/c8AAMkZV4cJ5dfDAAAAAElFTkSuQmCC" alt="TechTomorrow"/></a>
+  </p>
+
+  <p align="center" style="font-size: 1.15rem;">
+    <strong>Mohit Raj — Technical Team Lead & Full-Stack Developer at Tech Tomorrow. Building AI-powered EdTech systems. Leading MLSC @ Arka Jain University.</strong>
   </p>
 </div>
 
 ---
 
+## ⚡ Currently
+
+- 💼 **Role:** **Technical Team Lead & Full-Stack Developer** at [Tech Tomorrow](https://techtomorrow.in)
+- 🎓 **Education:** 2nd-year B.Tech in Artificial Intelligence & Data Science at **Arka Jain University**, Jamshedpur
+- 🌟 **Leadership:** Lead, **Microsoft Learn Student Chapter (MLSC)** @ Arka Jain University
+- 🚀 **Mission:** Architecting production-ready AI, CivicTech, and scalable cloud applications
+
+---
+
 ## 👨‍💻 About Me
 
-<h3 align="left">👋 Hello World! I'm Mohit Raj</h3>
-
-<p align="left" style="font-size: 1.15rem; line-height: 1.8;">
-  I am a results-driven <b>Full Stack Developer</b> and <b>Artificial Intelligence & Data Science</b> student. I specialize in building highly interactive, scalable web applications, designing robust backend systems, and combining them with AI-powered capabilities to deliver impactful, production-ready user experiences.
+<p align="left" style="font-size: 1.1rem; line-height: 1.8;">
+  I am a results-driven <b>Technical Team Lead</b> and <b>Full-Stack Developer</b> at <b>Tech Tomorrow</b>, currently in my 2nd year of B.Tech (AI & Data Science) at Arka Jain University, Jamshedpur. I specialize in building highly interactive, scalable web applications, robust backend architectures, and AI-powered systems.
 </p>
 
-<ul style="font-size: 1.1rem; line-height: 1.8;">
-  <li>🎓 <b>Academic Path:</b> Pursuing B.Tech in AI & Data Science at <b>Arka Jain University</b> (in collaboration with <b>IBM</b>).</li>
-  <li>🚀 <b>Entrepreneurship:</b> Sole Developer of <b>TechTomorrow</b> — an innovative educational and tech platform.</li>
-  <li>🏆 <b>Community Leadership:</b> Microsoft Learn Student Ambassador (MLSA), actively organizing workshops and building local developer circles.</li>
-  <li>🛠️ <b>Current Focus:</b> Deep-diving into Advanced System Design, Cloud Deployments, and generative AI.</li>
+<ul style="font-size: 1.05rem; line-height: 1.8;">
+  <li>🏛️ <b>Academic Excellence:</b> 2nd-year B.Tech, Artificial Intelligence & Data Science, Arka Jain University, Jamshedpur.</li>
+  <li>🏢 <b>Industry Leadership:</b> Technical Team Lead at <b>Tech Tomorrow</b>, driving core engineering, full-stack systems, and EdTech innovations.</li>
+  <li>🏆 <b>Community Leadership:</b> Lead, Microsoft Learn Student Chapter (MLSC), organizing developer hackathons, bootcamps, and technical workshops.</li>
+  <li>🛠️ <b>Core Competencies:</b> Next.js, TypeScript, Node.js, Python, PostgreSQL, Gemini AI, and Cloud Architecture.</li>
 </ul>
 
 ---
@@ -99,5 +110,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitraj8503&icon=0&color=0" alt="Profile Views" />
+  <p><sub>Built with ❤️ by <a href="https://github.com/mohitraj8503">Mohit Raj</a> — Technical Team Lead @ <a href="https://techtomorrow.in">Tech Tomorrow</a></sub></p>
 </div>
