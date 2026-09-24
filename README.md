@@ -112,3 +112,7 @@
 <div align="center">
   <p><sub>Built with ❤️ by <a href="https://github.com/mohitraj8503">Mohit Raj</a> — Technical Team Lead @ <a href="https://techtomorrow.in">Tech Tomorrow</a></sub></p>
 </div>
+
+---
+
+Built by [Mohit Raj](https://github.com/mohitraj8503) — Technical Team Lead @ [Tech Tomorrow](https://techtomorrow.in)
